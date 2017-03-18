@@ -1,0 +1,120 @@
+//{{NO_DEPENDENCIES}}
+// Microsoft Visual C++ 生成的包含文件。
+// 供 hand_eye_calibration_app.rc 使用
+//
+#define IDD_ABOUTBOX                    100
+#define IDP_OLE_INIT_FAILED             100
+#define IDD_FORMVIEW1                   101
+#define IDB_WRITESMALL                  110
+#define IDB_WRITELARGE                  111
+#define IDB_MAIN                        112
+#define IDB_BUTTONS                     113
+#define IDB_FILELARGE                   114
+#define IDB_FILESMALL                   115
+#define IDR_POPUP_EDIT                  119
+#define ID_STATUSBAR_PANE1              120
+#define ID_STATUSBAR_PANE2              121
+#define IDS_STATUS_PANE1                122
+#define IDS_STATUS_PANE2                123
+#define IDR_MAINFRAME                   128
+#define IDR_MAINFRAME_256               129
+#define IDR_hand_eye_calibrTYPE         130
+#define ID_WINDOW_MANAGER               131
+#define ID_VIEW_OUTPUTWND               149
+#define IDR_PASTE_MENU                  151
+#define IDR_WINDOWS_MENU                152
+#define IDS_OUTPUT_WND                  157
+#define IDI_OUTPUT_WND                  165
+#define IDI_OUTPUT_WND_HC               166
+#define IDR_OUTPUT_POPUP                182
+#define ID_VIEW_NAVIGATION              185
+#define IDB_NAVIGATION_LARGE            186
+#define IDB_NAVIGATION_LARGE_HC         187
+#define IDB_PAGES                       188
+#define IDB_PAGES_HC                    189
+#define IDB_PAGES_SMALL                 190
+#define IDB_PAGES_SMALL_HC              191
+#define IDR_THEME_MENU                  200
+#define ID_SET_STYLE                    201
+#define ID_VIEW_APPLOOK_WIN_2000        205
+#define ID_VIEW_APPLOOK_OFF_XP          206
+#define ID_VIEW_APPLOOK_WIN_XP          207
+#define ID_VIEW_APPLOOK_OFF_2003        208
+#define ID_VIEW_APPLOOK_VS_2005         209
+#define ID_VIEW_APPLOOK_VS_2008         210
+#define ID_VIEW_APPLOOK_OFF_2007_BLUE   215
+#define ID_VIEW_APPLOOK_OFF_2007_BLACK  216
+#define ID_VIEW_APPLOOK_OFF_2007_SILVER 217
+#define ID_VIEW_APPLOOK_OFF_2007_AQUA   218
+#define ID_VIEW_APPLOOK_WINDOWS_7       219
+#define IDS_MYCALENDARS                 250
+#define IDS_CALENDAR                    251
+#define IDS_SHORTCUTS                   252
+#define IDS_FOLDERS                     253
+#define IDS_OUTLOOKBAR                  258
+#define IDS_BUILD_TAB                   300
+#define IDS_DEBUG_TAB                   301
+#define IDS_FIND_TAB                    302
+#define IDS_EDIT_MENU                   306
+#define IDR_RIBBON                      307
+#define IDR_FORMVIEW1_TMPL              310
+#define IDD_DIALOG1                     315
+#define IDD_CALIBPARA_DIALOG            315
+#define IDD_HANDEYEPARA_DIALOG          316
+#define IDD_RINPUT_DIALOG               317
+#define IDD_MAINFRAME                   318
+#define IDC_RADIO1                      1008
+#define IDC_PATTERN_CHESS               1008
+#define IDC_RADIO2                      1009
+#define IDC_PATTERN_CIRCLE              1009
+#define IDC_EDIT2                       1022
+#define IDC_SQUARE_SIZE                 1022
+#define IDC_RADIO3                      1023
+#define IDC_EDGE_WHITE                  1023
+#define IDC_RADIO4                      1024
+#define IDC_EDGE_BLACK                  1024
+#define IDC_EDIT3                       1025
+#define IDC_PATTERN_WIDTH               1025
+#define IDC_EDIT4                       1026
+#define IDC_PATTERN_HEIGHT              1026
+#define IDC_HANDEYE_LIST                1027
+#define IDC_BUTTON1                     1028
+#define IDC_BUTTON3                     1031
+#define IDC_LIST1                       1033
+#define IDC_BUTTON2                     1034
+#define IDC_EDIT1                       1035
+#define IDC_EDIT5                       1036
+#define IDC_EDIT7                       1037
+#define IDC_EDIT8                       1040
+#define IDC_EDIT9                       1041
+#define IDC_EDIT6                       1043
+#define IDC_EDIT16                      1044
+#define IDC_EDIT14                      1045
+#define IDC_EDIT15                      1046
+#define IDC_IMAGE1                      1047
+#define IDC_IMAGE2                      1048
+#define ID_WRITE_PASTEASHYPERLINK       32770
+#define ID_BUTTON3                      32772
+#define ID_DETECT_CORNERS               32772
+#define ID_BUTTON4                      32773
+#define ID_BUTTON5                      32774
+#define ID_BUTTON6                      32775
+#define ID_EDIT_SAYHELLO                32778
+#define ID_EDIT_ADDIMAGES               32778
+#define ID_BUTTON2                      32779
+#define ID_PATTERN_ATTRIBUTE            32779
+#define ID_BUTTON7                      32780
+#define ID_CALIBRATION                  32781
+#define ID_HANDEYE_PARAMETER            32782
+#define ID_HANDEYECALIB                 32783
+
+// Next default values for new objects
+// 
+#ifdef APSTUDIO_INVOKED
+#ifndef APSTUDIO_READONLY_SYMBOLS
+#define _APS_NEXT_RESOURCE_VALUE        319
+#define _APS_NEXT_COMMAND_VALUE         32784
+#define _APS_NEXT_CONTROL_VALUE         1049
+#define _APS_NEXT_SYMED_VALUE           311
+#endif
+#endif
